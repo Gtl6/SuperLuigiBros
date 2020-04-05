@@ -1,0 +1,12 @@
+This is a project written with Python using the Pygame library by Griffin Lynch, begun during the Quarantine of 2020.
+
+It is an Editor/Player bundle that allows (fairly) close(ish) recreations of levels from Super Mario Bros on the NES,
+and is currently under development. It is merely something for me to work on to learn the ins and outs of Pygame
+and game programming at large - I have no large ambitions for the project beyond reaching a certain level of accomplishment
+(playability of all main mechanics) and some distribution among my friends (at no cost). 
+
+Anyway, to use either the editor or the player, I recommend using the most recent versions of Python and Pygame. At the time of this
+ writing, the Pygame website is not online, but Python is at v3.8.1. If you're having compatibility issues, maybe try to find a version
+ closer to that.
+ 
+Thanks for checking out my project! Have fun!
